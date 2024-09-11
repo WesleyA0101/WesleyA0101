@@ -41,7 +41,7 @@
 
 Eu sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware**. Tenho **7 anos de experiência** e estudo incessantemente redes e **exploração de vulnerabilidades**. Minha especialidade é a criação de ferramentas **low-level** em **C** e **C++**.
 
-Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e pela **Deep Web**. Minha missão é explorar os limites da segurança digital e ultrapassar as barreiras que protegem dados sensíveis. Acredito na importância do conhecimento ético e na exploração das sombras para proteger o que é valioso.
+Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e pela **Deep Web**. Minha missão é explorar os limites da segurança digital e ultrapassar as barreiras que protegem dados sensíveis. Acredito na importância do conhecimento e na obsessão em aprender.
 
 ---
 
@@ -101,5 +101,5 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
 
 ---
 
-> "O conhecimento é uma arma poderosa. Use-o sabiamente, explore as sombras e desvende os mistérios da segurança digital."
+> "O conhecimento é uma arma poderosa."
 
