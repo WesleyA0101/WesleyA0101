@@ -88,16 +88,16 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
 
 ## 📚 Projetos Notáveis
 
-- **[Explorador de Vulnerabilidades](https://github.com/WesleyA0101/explorador-vulnerabilidades)**: Ferramenta para identificar e explorar vulnerabilidades de segurança em redes.
-- **[Malware Analyser](https://github.com/WesleyA0101/malware-analyser)**: Analisador de malware com foco em engenharia reversa e detecção de ameaças.
-- **[Deep Web Scraper](https://github.com/WesleyA0101/deep-web-scraper)**: Ferramenta para coleta e análise de dados na Deep Web, com foco em anonimato e segurança.
+- **[Ainda não criado](https://github.com/WesleyA0101/explorador-vulnerabilidades)**: Ferramenta para identificar e explorar vulnerabilidades de segurança em redes.
+- **[Ainda não criado](https://github.com/WesleyA0101/malware-analyser)**: Analisador de malware com foco em engenharia reversa e detecção de ameaças.
+- **[Ainda não criado](https://github.com/WesleyA0101/deep-web-scraper)**: Ferramenta para coleta e análise de dados na Deep Web, com foco em anonimato e segurança.
 
 ---
 
 ## 🌐 Links Úteis
 
-- **[Documentação de Hacking](https://example.com)**: Recurso para aprofundar seus conhecimentos em hacking e segurança.
-- **[Guias de Segurança](https://example.com)**: Artigos e tutoriais sobre melhores práticas em cibersegurança.
+- **[Ainda não criado](https://example.com)**: Recurso para aprofundar seus conhecimentos em hacking e segurança.
+- **[Ainda não criado](https://example.com)**: Artigos e tutoriais sobre melhores práticas em cibersegurança.
 
 ---
 
