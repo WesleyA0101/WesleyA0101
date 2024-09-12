@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Linguagens Mais Usadas
+## 💻 Linguagens Mais Usadas
 
 <div style="display: flex; justify-content: center; background: #222222; padding: 10px; border-radius: 10px; border: 2px solid #666;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=blue-green" alt="Top Languages"/>
