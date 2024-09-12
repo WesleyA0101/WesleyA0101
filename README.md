@@ -86,7 +86,7 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
 
 ---
 
-## 📚 Projetos Notáveis
+## 📚 Materiais 
 
 - **[Ainda não criado](https://github.com/WesleyA0101/explorador-vulnerabilidades)**: Ferramenta para identificar e explorar vulnerabilidades de segurança em redes.
 - **[Ainda não criado](https://github.com/WesleyA0101/malware-analyser)**: Analisador de malware com foco em engenharia reversa e detecção de ameaças.
