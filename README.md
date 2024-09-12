@@ -7,22 +7,23 @@
 </div>
 
 ### "O conhecimento é poder. Seremos eternos aprendizes."
+
 ---
 
 ## 💀 Minhas Skills
 
-<div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
+<div style="display: flex; gap: 15px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://embarcados.com.br/linguagem-c-guia-completo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="70" height="70" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
   </a>
   <a href="https://www.ime.usp.br/~slago/slago-C++.pdf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="70" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
   </a>
 </div>
 
@@ -98,15 +99,15 @@ Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). 
 
 ## 🐧 Distribuições Linux Favoritas
 
-<div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
+<div style="display: flex; gap: 15px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://archlinux.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="70" height="70" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
   </a>
   <a href="https://debian.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="70" height="70" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="50" height="50" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
   </a>
   <a href="https://ubuntu.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="70" height="70" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
   </a>
 </div>
 
@@ -114,9 +115,9 @@ Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). 
 
 ## 📞 Contato
 
-<div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
+<div style="display: flex; gap: 15px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://www.linkedin.com/in/wesley-alexsander-0329a2327" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="70" height="70" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
   </a>
 </div>
 
@@ -136,14 +137,10 @@ Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). 
 - **[RASCUNHO](https://github.com/WesleyA0101/malware-analyser)**: 
 - **[RASCUNHO](https://github.com/WesleyA0101/deep-web-scraper)**: 
 
----
-
 ## 🌐 Links Úteis
 
 - **[RASCUNHO](https://example.com)**: 
 - **[RASCUNHO](https://example.com)**: 
 - **[RASCUNHO](https://example.com)**: 
-
----
 
 > "O conhecimento é uma arma poderosa."
