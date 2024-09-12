@@ -1,16 +1,15 @@
-# 💀 Bem-vindo, eu sou WesleyA0101 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+eu+sou+WesleyA0101)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="150" height="150" alt="Skull gif"/>
 </div>
 
 ### "O conhecimento é poder. Seremos eternos aprendizes."
-
 ---
 
-## ⚡ Minhas Skills
+## 💀 Minhas Skills
 
 <div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://embarcados.com.br/linguagem-c-guia-completo/" target="_blank">
@@ -49,7 +48,18 @@
 
 Eu sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware**. Tenho **7 anos de experiência** e estudo incessantemente redes e **exploração de vulnerabilidades**. Minha especialidade é a criação de ferramentas **low-level** em **C** e **C++**.
 
-Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e pela **rede Tor**. Minha missão é explorar os limites da segurança digital e ultrapassar as barreiras que protegem dados sensíveis. Acredito na importância do conhecimento e na obsessão em aprender.
+Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e pela **rede Tor**. Estudo há alguns anos a área de tecnologia, como autodidata, para ser mais específico, cibersegurança, hacking e redes de computdores, além de outros estudos como Cloud e programação. Estou fazendo algumas formações para conseguir entrar na área que desejo, colocando meus anos de estudos em prática em um ambiente empresarial, absorvendo conhecimento e obtendo aprendizado com outros profissionais que estão há mais tempo na área, mantendo meus estudos, evoluindo na área e me aprimorando cada vez mais.
+
+Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). Todos os relatórios foram para a NASA, sobre documentos confidenciais expostos.
+
+---
+## ✒️ Cursos e cursando 
+
+🔐 CCNA | Redes de computadores | Administração Senac | 
+
+✒️ Cursando: Redes de computadores | Mikrotik | Cloud computing e Cibersegurança (Hackone) 
+
+🌍 Cursando: Inglês e Japonês 
 
 ---
 
@@ -68,19 +78,19 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
 ### **1. RASCUNHO**
 - **Descrição**: 
 - **Status**: 
-- **Link**: [...](https://github.com/WesleyA0101/explorador-vulnerabilidades)
+- **Link**: [Veja o projeto](https://github.com/WesleyA0101/explorador-vulnerabilidades)
 - **Tecnologias**: 
 
 ### **2. RASCUNHO**
 - **Descrição**:
 - **Status**: 
-- **Link**: [...](https://github.com/WesleyA0101/malware-analyser)
+- **Link**: [Veja o projeto](https://github.com/WesleyA0101/malware-analyser)
 - **Tecnologias**: Python, IDA Pro, Ghidra
 
 ### **3. RASCUNHO**
 - **Descrição**: 
 - **Status**: 
-- **Link**: [...](https://github.com/WesleyA0101/deep-web-scraper)
+- **Link**: [Veja o projeto](https://github.com/WesleyA0101/deep-web-scraper)
 - **Tecnologias**: 
 
 ---
@@ -107,6 +117,7 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
   <a href="https://www.linkedin.com/in/wesley-alexsander-0329a2327" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
   </a>
+</div>
 
 ---
 
@@ -118,7 +129,7 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
 
 ---
 
-## 📚 Artigod
+## 📚 Artigos
 
 - **[RASCUNHO](https://github.com/WesleyA0101/explorador-vulnerabilidades)**:
 - **[RASCUNHO](https://github.com/WesleyA0101/malware-analyser)**: 
@@ -135,4 +146,3 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
 ---
 
 > "O conhecimento é uma arma poderosa."
-
