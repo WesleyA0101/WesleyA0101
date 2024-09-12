@@ -12,7 +12,7 @@
 
 ## ⚡ Minhas Skills
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://embarcados.com.br/linguagem-c-guia-completo/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transform: rotate(360deg); transition: transform 2s ease-in-out;"/>
   </a>
@@ -32,7 +32,15 @@
 ## 🧠 GitHub Stats
 
 <div style="display: flex; justify-content: center; background: #000000; padding: 15px; border-radius: 10px; border: 2px solid #FF0000;">
-  <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px;"/> 
+</div>
+
+---
+
+## 📊 Linguagens Mais Usadas
+
+<div style="display: flex; justify-content: center; background: #222222; padding: 10px; border-radius: 10px; border: 2px solid #666;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=blue-green" alt="Top Languages"/>
 </div>
 
 ---
@@ -41,7 +49,7 @@
 
 Eu sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware**. Tenho **7 anos de experiência** e estudo incessantemente redes e **exploração de vulnerabilidades**. Minha especialidade é a criação de ferramentas **low-level** em **C** e **C++**.
 
-Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e pela **Deep Web**. Minha missão é explorar os limites da segurança digital e ultrapassar as barreiras que protegem dados sensíveis. Acredito na importância do conhecimento e na obsessão em aprender.
+Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e pela **rede Tor**. Minha missão é explorar os limites da segurança digital e ultrapassar as barreiras que protegem dados sensíveis. Acredito na importância do conhecimento e na obsessão em aprender.
 
 ---
 
@@ -55,14 +63,39 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
 
 ---
 
+## 🛠️ Projetos 
+
+### **1. RASCUNHO**
+- **Descrição**: 
+- **Status**: 
+- **Link**: [...](https://github.com/WesleyA0101/explorador-vulnerabilidades)
+- **Tecnologias**: 
+
+### **2. RASCUNHO**
+- **Descrição**:
+- **Status**: 
+- **Link**: [...](https://github.com/WesleyA0101/malware-analyser)
+- **Tecnologias**: Python, IDA Pro, Ghidra
+
+### **3. RASCUNHO**
+- **Descrição**: 
+- **Status**: 
+- **Link**: [...](https://github.com/WesleyA0101/deep-web-scraper)
+- **Tecnologias**: 
+
+---
+
 ## 🐧 Distribuições Linux Favoritas
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://archlinux.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
   </a>
   <a href="https://debian.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
+  </a>
+  <a href="https://ubuntu.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
   </a>
 </div>
 
@@ -70,34 +103,34 @@ Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e p
 
 ## 📞 Contato
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://www.linkedin.com/in/wesley-alexsander-0329a2327" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
   </a>
-</div>
 
 ---
 
 ## 💬 Testemunhos
 
-<div style="background: #0d1117; color: #e06c75; padding: 10px; border-radius: 5px; margin: 10px 0;">
+<div style="background: #333333; color: #e06c75; padding: 10px; border-radius: 5px; margin: 10px 0;">
   <p>"O verdadeiro poder no hacking está em conhecer o sistema por dentro e fora, explorando suas fraquezas antes que os outros o façam."</p>
 </div>
 
 ---
 
-## 📚 Materiais 
+## 📚 Artigod
 
-- **[Ainda não criado](https://github.com/WesleyA0101/explorador-vulnerabilidades)**: Ferramenta para identificar e explorar vulnerabilidades de segurança em redes.
-- **[Ainda não criado](https://github.com/WesleyA0101/malware-analyser)**: Analisador de malware com foco em engenharia reversa e detecção de ameaças.
-- **[Ainda não criado](https://github.com/WesleyA0101/deep-web-scraper)**: Ferramenta para coleta e análise de dados na Deep Web, com foco em anonimato e segurança.
+- **[RASCUNHO](https://github.com/WesleyA0101/explorador-vulnerabilidades)**:
+- **[RASCUNHO](https://github.com/WesleyA0101/malware-analyser)**: 
+- **[RASCUNHO](https://github.com/WesleyA0101/deep-web-scraper)**: .
 
 ---
 
 ## 🌐 Links Úteis
 
-- **[Ainda não criado](https://example.com)**: Recurso para aprofundar seus conhecimentos em hacking e segurança.
-- **[Ainda não criado](https://example.com)**: Artigos e tutoriais sobre melhores práticas em cibersegurança.
+- **[RASCUNHO](https://example.com)**: 
+- **[RASCUNHO](https://example.com)**: 
+- **[RASCUNHO](https://example.com)**: 
 
 ---
 
