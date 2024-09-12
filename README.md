@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+eu+sou+WesleyA0101)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="150" height="150" alt="Skull gif"/>
+  <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="300" height="300" alt="Skull gif"/>
 </div>
 
 ### "O conhecimento é poder. Seremos eternos aprendizes."
@@ -13,16 +13,16 @@
 
 <div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://embarcados.com.br/linguagem-c-guia-completo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transform: rotate(360deg); transition: transform 2s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="70" height="70" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
   </a>
   <a href="https://www.ime.usp.br/~slago/slago-C++.pdf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transform: rotate(360deg); transition: transform 2s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="70" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transform: rotate(360deg); transition: transform 2s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transform: rotate(360deg); transition: transform 2s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70" style="filter: invert(100%) sepia(0%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%); transition: transform 2s ease-in-out;"/>
   </a>
 </div>
 
@@ -48,14 +48,15 @@
 
 Eu sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware**. Tenho **7 anos de experiência** e estudo incessantemente redes e **exploração de vulnerabilidades**. Minha especialidade é a criação de ferramentas **low-level** em **C** e **C++**.
 
-Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e pela **rede Tor**. Estudo há alguns anos a área de tecnologia, como autodidata, para ser mais específico, cibersegurança, hacking e redes de computdores, além de outros estudos como Cloud e programação. Estou fazendo algumas formações para conseguir entrar na área que desejo, colocando meus anos de estudos em prática em um ambiente empresarial, absorvendo conhecimento e obtendo aprendizado com outros profissionais que estão há mais tempo na área, mantendo meus estudos, evoluindo na área e me aprimorando cada vez mais.
+Desde cedo, fui atraído por **engenharia reversa**, **análise de malware** e pela **rede Tor**. Estudo há alguns anos a área de tecnologia, como autodidata, para ser mais específico, cibersegurança, hacking e redes de computadores, além de outros estudos como Cloud e programação. Estou fazendo algumas formações para conseguir entrar na área que desejo, colocando meus anos de estudos em prática em um ambiente empresarial, absorvendo conhecimento e obtendo aprendizado com outros profissionais que estão há mais tempo na área, mantendo meus estudos, evoluindo na área e me aprimorando cada vez mais.
 
 Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). Todos os relatórios foram para a NASA, sobre documentos confidenciais expostos.
 
 ---
-## ✒️ Cursos e cursando 
 
-🔐 CCNA | Redes de computadores | Administração Senac | 
+## ✒️ Cursos e Cursando 
+
+🔐 CCNA | Redes de computadores | Administração Senac 
 
 ✒️ Cursando: Redes de computadores | Mikrotik | Cloud computing e Cibersegurança (Hackone) 
 
@@ -99,13 +100,13 @@ Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). 
 
 <div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://archlinux.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="70" height="70" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
   </a>
   <a href="https://debian.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="70" height="70" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
   </a>
   <a href="https://ubuntu.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="70" height="70" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
   </a>
 </div>
 
@@ -115,7 +116,7 @@ Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). 
 
 <div style="display: flex; gap: 20px; justify-content: center; background: #1e1e1e; padding: 10px; border-radius: 10px; border: 2px solid #444;">
   <a href="https://www.linkedin.com/in/wesley-alexsander-0329a2327" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50" style="filter: brightness(1.2); transform: scale(1.1); transition: transform 0.5s ease-in-out;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="70" height="70" style="filter: brightness(1.2); transition: transform 0.5s ease-in-out;"/>
   </a>
 </div>
 
@@ -133,7 +134,7 @@ Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). 
 
 - **[RASCUNHO](https://github.com/WesleyA0101/explorador-vulnerabilidades)**:
 - **[RASCUNHO](https://github.com/WesleyA0101/malware-analyser)**: 
-- **[RASCUNHO](https://github.com/WesleyA0101/deep-web-scraper)**: .
+- **[RASCUNHO](https://github.com/WesleyA0101/deep-web-scraper)**: 
 
 ---
 
