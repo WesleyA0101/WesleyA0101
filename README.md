@@ -95,7 +95,7 @@ Já fiz alguns trabalhos de Bug Bounty, onde os reportes foram duplicatas (P3). 
 - **Descrição**:
 - **Status**: 
 - **Link**: [Veja o projeto](https://github.com/WesleyA0101/malware-analyser)
-- **Tecnologias**: Python, IDA Pro, Ghidra
+- **Tecnologias**:
 
 ### **3. RASCUNHO**
 - **Descrição**: 
