@@ -31,8 +31,17 @@
 
 ## 🧠 GitHub Stats
 
-<div style="display: flex; justify-content: center; background: #000000; padding: 15px; border-radius: 10px; border: 2px solid #FF0000;">
-  <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px;"/> 
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&theme=dark&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;"/>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyA0101&theme=black-ice" alt="GitHub Streak" style="border-radius: 10px;"/>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyA0101&theme=dark" alt="Perfil" style="border-radius: 10px;"/>
 </div>
 
 ---
@@ -40,11 +49,10 @@
 ## 💻 Linguagens Mais Usadas
 
 <div style="display: flex; justify-content: center; background: #222222; padding: 10px; border-radius: 10px; border: 2px solid #666;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=blue-green" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=dark&hide=html&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
-
 ## 👁‍🗨 Sobre Mim
 
 Eu sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware**. Tenho **7 anos de experiência** e estudo incessantemente redes e **exploração de vulnerabilidades**. Minha especialidade é a criação de ferramentas **low-level** em **C** e **C++**.
