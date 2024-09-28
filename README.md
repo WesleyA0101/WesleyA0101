@@ -81,7 +81,7 @@ Já trabalhei em Bug Bounties, reportando vulnerabilidades à NASA. Estou sempre
 
 ## 🛠️ Projetos
 
-##Ainda sendo criado
+## Ainda sendo criado
 ---
 
 ## 🐧 Distribuições Linux Favoritas
