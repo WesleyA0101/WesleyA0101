@@ -52,7 +52,7 @@
 
 ## 👁‍🗨 Sobre Mim
 
-Sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware** com **7 anos de estudos autodidata**. Minha especialidade é **C** e **C++**. Estou buscando aplicar meus conhecimentos em cibersegurança e redes em um ambiente empresarial.
+Sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware** com **7 anos de estudos autodidata**. Estou buscando aplicar meus conhecimentos em cibersegurança e redes em um ambiente empresarial, obtendo conhecimento com quem está a mais tempo na área.
 
 Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em busca de aprendizado e evolução.
 
