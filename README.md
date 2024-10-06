@@ -64,8 +64,7 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 
 **SENAC**: Administração
 
-**Cursando**:
-- Inglês e Japonês
+**Cursando**: Inglês e Japonês
 
 ---
 
