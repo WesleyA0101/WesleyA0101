@@ -60,11 +60,8 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 
 ## ✒️ Formação e Cursos
 
-- **CCNA**: Redes de Computadores | Administração Senac
-- **Cursando**:
-  - Redes de Computadores
-  - Mikrotik
-  - Cloud Computing e Cibersegurança (Hackone)
+- **HACKONE**: Redes de Computadores |Mikrotik | Cloud Computing e Cibersegurança
+   **Cursando**:
   - Inglês e Japonês
 
 ---
