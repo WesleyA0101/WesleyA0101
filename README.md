@@ -60,9 +60,12 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 
 ## ✒️ Formação e Cursos
 
-- **HACKONE**: Redes de Computadores |Mikrotik | Cloud Computing e Cibersegurança
-   **Cursando**:
-  - Inglês e Japonês
+**HACKONE**: Redes de Computadores |Mikrotik | Cloud Computing e Cibersegurança
+
+**SENAC**: Administração
+
+**Cursando**:
+- Inglês e Japonês
 
 ---
 
