@@ -33,8 +33,6 @@
 
 <div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&theme=dark&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyA0101&theme=black-ice" alt="GitHub Streak" style="border-radius: 10px;"/>
-</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyA0101&theme=dark" alt="Perfil" style="border-radius: 10px;"/>
@@ -68,16 +66,6 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 
 ---
 
-## 🌌 Áreas de Interesse
-
-- **Malware & Exploits**
-- **Hacking**: Pentests e engenharia social
-- **Deep Web & Anonimato**
-- **Segurança de Redes**
-- **Cibersegurança**
-
----
-
 ## 🛠️ Projetos
 
 ## Ainda sendo criado
@@ -105,14 +93,6 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
   <a href="https://www.linkedin.com/in/wesley-alexsander-0329a2327" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
   </a>
-</div>
-
----
-
-## 💬 Testemunhos
-
-<div style="background: #333333; color: #e06c75; padding: 10px; border-radius: 5px; margin: 10px 0;">
-  <p>"O verdadeiro poder no hacking está em conhecer o sistema por dentro e fora, explorando suas fraquezas antes que os outros o façam."</p>
 </div>
 
 ---
