@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+: <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+eu+sou+WesleyA0101)](https://git.io/typing-svg)
 
@@ -12,19 +12,11 @@
 
 ## 💀 Minhas Skills
 
-<div align="center" style="display: flex; gap: 20px; padding: 10px; border-radius: 10px; background: #1e1e1e; border: 2px solid #444;">
-  <a href="https://embarcados.com.br/linguagem-c-guia-completo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
-  </a>
-  <a href="https://www.ime.usp.br/~slago/slago-C++.pdf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
-  </a>
+<div align="center" style="display: flex; gap: 20px;">
+  <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="Vim Logo" width="60" height="60"/>
+  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="Git Logo" width="60" height="60"/>
+  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C Logo" width="60" height="60"/>
+  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=1488e1" alt="C++ Logo" width="60" height="60"/>
 </div>
 
 ---
@@ -58,7 +50,7 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 
 ## ✒️ Formação e Cursos
 
-**HACKONE**: Redes de Computadores |Mikrotik | Cloud Computing e Cibersegurança
+**HACKONE**: Redes de Computadores | Mikrotik | Cloud Computing e Cibersegurança
 
 **SENAC**: Administração
 
@@ -100,15 +92,12 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 ## 📚 Artigos
 
 - **[...](https://github.com/WesleyA0101/explorador-vulnerabilidades)**: 
-- **[...](https://github.com/WesleyA0101/malware-analyser)**: 
-- **[...](https://github.com/WesleyA0101/deep-web-scraper)**: 
 
 ---
 
-## 🌐 Links Úteis
+## 🌐 Projetos
 
-- **[Link 1](https://example.com)**: 
-- **[Link 2](https://example.com)**: 
-- **[Link 3](https://example.com)**: 
+- **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**: 
+
 
 > "O conhecimento é uma arma poderosa."
