@@ -1,9 +1,9 @@
-: <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+eu+sou+WesleyA0101)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="300" height="300" alt="Skull gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazczMXVodml1c2ZtN2JwaXdyZjVhMmgzdG52NXd2ajlvNG5rbjZucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqCNjBWbaZL3O/giphy.webp" width="300" height="300" alt="Woman Crow"/>
 </div>
 
 ### "O conhecimento é poder. Seremos eternos aprendizes."
