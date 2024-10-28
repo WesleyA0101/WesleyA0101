@@ -1,6 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 <div align="center">
+  <h3 align="center">Visitantes ☠️:</h3>
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/{WesleyA0101}/count.svg" alt="WesleyA0101 :: Visitor's Count" />
+  </p>
+</div>
+
+<div align="center">
   <a href="https://www.flaticon.com/br/icone-gratis/hacker_7298537?term=hacker&page=1&position=7&origin=search&related_id=7298537" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/7298/7298537.png" alt="Hacker Icon" width="120" height="120"/>
   </a>
