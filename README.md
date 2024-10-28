@@ -1,4 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
+<div align="center">
+  <a href="https://www.flaticon.com/br/icone-gratis/hacker_7298537?term=hacker&page=1&position=7&origin=search&related_id=7298537" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/7298/7298537.png" alt="Hacker Icon" width="120" height="120"/>
+  </a>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+eu+sou+WesleyA0101)](https://git.io/typing-svg)
 
@@ -12,21 +18,20 @@
 
 ## 💀 Minhas Skills
 
-<div align="center" style="display: flex; gap: 20px;">
+<div align="center">
   <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="Vim Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="Git Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=1488e1" alt="C++ Logo" width="60" height="60"/>
+  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Linux Logo" width="60" height="60"/>
 </div>
 
 ---
 
 ## 🧠 GitHub Stats
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&theme=dark&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;"/>
-
-<div align="center" style="margin-top: 20px;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&theme=dark&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 20px;"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyA0101&theme=dark" alt="Perfil" style="border-radius: 10px;"/>
 </div>
 
@@ -34,33 +39,37 @@
 
 ## 💻 Linguagens Mais Usadas
 
-<div align="center" style="padding: 10px; border-radius: 10px; background: #222222; border: 2px solid #666;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=dark&hide=html&layout=compact" alt="Top Languages"/>
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=dark&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WesleyA0101&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=FF0000&fire=FF0000&sideNums=FF0000&currStreakLabel=FFFFFF" alt="Streak Stats" style="border-radius: 10px;"/>
 </div>
 
 ---
 
 ## 👁‍🗨 Sobre Mim
-
 Sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware** com **7 anos de estudos autodidata**. Estou buscando aplicar meus conhecimentos em cibersegurança e redes em um ambiente empresarial, obtendo conhecimento com quem está a mais tempo na área.
 
 Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em busca de aprendizado e evolução.
+<div align="left">
+  <a href="https://www.flaticon.com/br/icone-gratis/malware_7007109?term=malware&page=1&position=8&origin=search&related_id=7007109" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/7007/7007109.png" alt="Malware Icon" width="30" height="30"/>
+  </a>
+</div>
 
 ---
 
 ## ✒️ Formação e Cursos
 
-**HACKONE**: Redes de Computadores | Mikrotik | Cloud Computing e Cibersegurança
-
-**SENAC**: Administração
-
-**Cursando**: Inglês e Japonês
+- **HACKONE**: Redes de Computadores | Mikrotik | Cloud Computing e Cibersegurança
+- **SENAC**: Administração
+- **Cursando**: Inglês e Japonês
 
 ---
 
 ## 🛠️ Projetos
 
-## Ainda sendo criado
+- **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**
+
 ---
 
 ## 🐧 Distribuições Linux Favoritas
@@ -91,13 +100,6 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 
 ## 📚 Artigos
 
-- **[...](https://github.com/WesleyA0101/explorador-vulnerabilidades)**: 
-
----
-
-## 🌐 Projetos
-
-- **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**: 
-
+- **[...](...)**
 
 > "O conhecimento é uma arma poderosa."
