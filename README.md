@@ -76,6 +76,7 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 ## 🛠️ Projetos
 
 - **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**
+- **[Estudo-de-ransomware](https://github.com/WesleyA0101/estudos-de-ransomware)**
 
 ---
 
