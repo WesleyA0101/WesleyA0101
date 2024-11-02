@@ -110,4 +110,34 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 
 - **[...](...)**
 
+---
+
+## 💰 Apoie o Desenvolvedor
+
+<div align="center">
+  <h3>Se você gostou do meu trabalho, considere contribuir:</h3>
+
+  <!-- Bitcoin -->
+  <a href="bitcoin:SUA_SEED_AQUI" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF9900/bitcoin.png" alt="Bitcoin Icon" width="50" height="50"/>
+    <p style="color: #FF9900;">Bitcoin</p>
+  </a>
+  
+  <!-- Ethereum (Opcional para o futuro) -->
+  <a href="ethereum:SEU_ENDERECO_ETHEREUM_AQUI" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/3C3C3D/ethereum.png" alt="Ethereum Icon" width="50" height="50"/>
+    <p style="color: #3C3C3D;">Ethereum</p>
+  </a>
+  
+  <!-- PayPal (Opcional para o futuro) -->
+  <a href="https://www.paypal.com/donate?hosted_button_id=SUA_ID_DO_PAYPAL" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0070BA/paypal.png" alt="PayPal Icon" width="50" height="50"/>
+    <p style="color: #0070BA;">PayPal</p>
+  </a>
+
+</div>
+
+
 > "O conhecimento é uma arma poderosa."
+
+ 
