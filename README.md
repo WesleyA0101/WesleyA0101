@@ -41,7 +41,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&theme=dark&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 20px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyA0101&theme=dark" alt="Perfil" style="border-radius: 10px;"/>
 </div>
 
 ---
@@ -50,7 +49,6 @@
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=dark&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WesleyA0101&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=FF0000&fire=FF0000&sideNums=FF0000&currStreakLabel=FFFFFF" alt="Streak Stats" style="border-radius: 10px;"/>
 </div>
 
 ---
