@@ -118,7 +118,7 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
   <h3>Se você gostou do meu trabalho, considere contribuir:</h3>
 
   <!-- Bitcoin -->
-  <a href="bitcoin:SUA_SEED_AQUI" target="_blank">
+  <a href="bitcoin:bc1q39v80r4qgun0sjtsqfrnr5d50prffencjvmr6h" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/FF9900/bitcoin.png" alt="Bitcoin Icon" width="50" height="50"/>
     <p style="color: #FF9900;">Bitcoin</p>
   </a>
