@@ -57,11 +57,12 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 ---
 
 ## 📊 Estatísticas  
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyA0101&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyA0101&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyA0101&theme=nord_dark&utcOffset=3) |
+| :-: | :-: | :-: |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&theme=dark&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=dark&layout=compact&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyA0101&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=WesleyA0101&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 ---
 
