@@ -42,7 +42,6 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=1488e1" alt="C++ Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Linux Logo" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Python Logo" width="60" height="60"/>
 </div>
 
 ---
