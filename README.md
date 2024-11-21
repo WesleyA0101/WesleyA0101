@@ -27,10 +27,13 @@
 
 Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia de liberdade digital. Apaixonado pelo **GNU/Linux**, encontro inspiração na missão de gigantes como **Richard Stallman** e **Linus Torvalds**, que transformaram a tecnologia em um meio para empoderar pessoas.
 
-### 🌌 O que me define:  
+### 🌌 O que me define: 
+- Curioso em desenvolvimento de malware
+- Apaixonado pela filosofia software livre
 - **7 anos de experiência autodidata** em redes, segurança cibernética e programação.  
 - Desenvolvedor de ferramentas de intrusão e explorador de vulnerabilidades.  
-- Apaixonado por **projetos éticos** que incentivam o compartilhamento de conhecimento.  
+- Apaixonado por **projetos éticos** que incentivam o compartilhamento de conhecimento.
+
 
 ---
 
