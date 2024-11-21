@@ -1,31 +1,40 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=200&section=header&text=WesleyA0101&fontSize=45&fontColor=FF0000&animation=fadeIn&fontAlignY=40"/>
 
 <div align="center">
-  <h3 align="center">Visitantes ☠️:</h3>
+  <h3 align="center">💀 Bem-vindo(a) ao meu mundo digital 💀</h3>
   <p align="center">
     <img src="https://profile-counter.glitch.me/{WesleyA0101}/count.svg" alt="WesleyA0101 :: Visitor's Count" />
   </p>
 </div>
 
+---
+
 <div align="center">
-  <a href="https://www.flaticon.com/br/icone-gratis/hacker_7298537?term=hacker&page=1&position=7&origin=search&related_id=7298537" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/7298/7298537.png" alt="Hacker Icon" width="120" height="120"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Curioso!;Explore+Sem+Limites!;Liberdade+é+o+Nosso+Propósito!" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+eu+sou+WesleyA0101)](https://git.io/typing-svg)
-
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/7298/7298537.png" alt="Hacker Icon" width="120" height="120"/>
+</div>
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazczMXVodml1c2ZtN2JwaXdyZjVhMmgzdG52NXd2ajlvNG5rbjZucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqCNjBWbaZL3O/giphy.webp" width="300" height="300" alt="Woman Crow"/>
 </div>
 
 ---
 
-### "O conhecimento é poder. Seremos eternos aprendizes."
+## 💀 Sobre Mim  
+
+
+Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia de liberdade digital. Apaixonado pelo **GNU/Linux**, encontro inspiração na missão de gigantes como **Richard Stallman** e **Linus Torvalds**, que transformaram a tecnologia em um meio para empoderar pessoas.
+
+### 🌌 O que me define:  
+- **7 anos de experiência autodidata** em redes, segurança cibernética e programação.  
+- Desenvolvedor de ferramentas de intrusão e explorador de vulnerabilidades.  
+- Apaixonado por **projetos éticos** que incentivam o compartilhamento de conhecimento.  
 
 ---
 
-## 💀 Minhas Skills
+## 💻 Skills  
 
 <div align="center">
   <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="Vim Logo" width="60" height="60"/>
@@ -33,56 +42,38 @@
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=1488e1" alt="C++ Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Linux Logo" width="60" height="60"/>
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Python Logo" width="60" height="60"/>
 </div>
 
 ---
 
-## 🧠 GitHub Stats
+## 🛠️ Projetos Relevantes  
+🔹 **[Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel](https://github.com/WesleyA0101/Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel)**: Roadmap de estudos low-level  
+🔹 **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**: Ferramenta de escaneamento para segurança em redes.  
+🔹 **[Estudo-de-ransomware](https://github.com/WesleyA0101/estudos-de-ransomware)**: Pesquisas e protótipos de ransomware para fins educacionais.  
+
+---
+
+## 📊 Estatísticas  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&theme=dark&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WesleyA0101&theme=dark&show_icons=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=dark&layout=compact&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 💻 Linguagens Mais Usadas
+## 🧠 Filosofia  
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyA0101&theme=dark&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
-</div>
+> *"A liberdade de explorar, compartilhar e aprender é o que nos torna verdadeiramente humanos."*
 
----
-
-## 👁‍🗨 Sobre Mim
-Sou **WesleyA0101**, um entusiasta de **hacking** e **desenvolvimento de malware** com **7 anos de estudos autodidata**. Estou buscando aplicar meus conhecimentos em cibersegurança e redes em um ambiente empresarial.
-
-Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em busca de aprendizado e evolução.
-<div align="left">
-  <a href="https://www.flaticon.com/br/icone-gratis/malware_7007109?term=malware&page=1&position=8&origin=search&related_id=7007109" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/7007/7007109.png" alt="Malware Icon" width="30" height="30"/>
-  </a>
-</div>
+Acredito que **o conhecimento deve ser livre e acessível** para todos. Meu trabalho reflete esse ideal, com foco em projetos que capacitam comunidades através da tecnologia.  
 
 ---
 
-## ✒️ Formação e Cursos
+## 🐧 Distribuições Linux Preferidas  
 
-- **HACKONE**: Redes de Computadores | Mikrotik | Cloud Computing e Cibersegurança
-- **SENAC**: Administração
-- **Cursando**: Inglês e Japonês
-
----
-
-## 🛠️ Projetos
-
-- **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**
-- **[Estudo-de-ransomware](https://github.com/WesleyA0101/estudos-de-ransomware)**
-
----
-
-## 🐧 Distribuições Linux Favoritas
-
-<div align="center" style="display: flex; gap: 20px; padding: 10px; border-radius: 10px; background: #1e1e1e; border: 2px solid #444;">
+<div align="center">
   <a href="https://archlinux.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50"/>
   </a>
@@ -96,34 +87,30 @@ Já fiz alguns bug bounty, reportando vulnerabilidades à NASA. Estou sempre em 
 
 ---
 
-## 📞 Contato
+## 📚 Formação e Estudos  
 
-<div align="center" style="padding: 10px; border-radius: 10px; background: #1e1e1e; border: 2px solid #444;">
+- **HACKONE**: Redes de Computadores, Mikrotik, Cloud Computing e Cibersegurança.  
+- **SENAC**: Administração.  
+- **Idiomas**: Cursando Inglês e Japonês.  
+
+---
+
+## 📞 Contato  
+
+<div align="center">
   <a href="https://www.linkedin.com/in/wesley-alexsander-0329a2327" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 </div>
 
 ---
 
-## 📚 Artigos
+## 💰 Apoie o Desenvolvedor  
 
-- **[...](...)**
-
----
-
-## 💰 Apoie o Desenvolvedor
+Se você aprecia o meu trabalho, considere contribuir:  
 
 <div align="center">
-  <h3>Se você gostou do meu trabalho, considere contribuir:</h3>
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/ios-filled/50/FF9900/bitcoin.png" alt="Bitcoin Icon" width="50" height="50"/>
-        <p style="color: #FF9900;">Bitcoin</p>
-        <code>bc1q39v80r4qgun0sjtsqfrnr5d50prffencjvmr6h</code>
-      </td>
+  <img src="https://img.icons8.com/ios-filled/50/FF9900/bitcoin.png" alt="Bitcoin Icon" width="50" height="50"/>
+  <p style="color: #FF9900;">**Bitcoin**</p>
+  <code>bc1q39v80r4qgun0sjtsqfrnr5d50prffencjvmr6h</code>
 </div>
-
-> "O conhecimento é uma arma poderosa."
