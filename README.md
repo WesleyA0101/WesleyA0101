@@ -106,14 +106,3 @@ Acredito que **o conhecimento deve ser livre e acessível** para todos. Meu trab
   </a>
 </div>
 
----
-
-## 💰 Apoie o Desenvolvedor  
-
-Se você aprecia o meu trabalho, considere contribuir:  
-
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/FF9900/bitcoin.png" alt="Bitcoin Icon" width="50" height="50"/>
-  <p style="color: #FF9900;">**Bitcoin**</p>
-  <code>bc1q39v80r4qgun0sjtsqfrnr5d50prffencjvmr6h</code>
-</div>
