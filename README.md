@@ -107,3 +107,9 @@ Acredito que **o conhecimento deve ser livre e acessível** para todos. Meu trab
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/05/30/72/053072dabbab054bea035451239fe81b.png" alt="GNU Linux Icon" width="150" height="150"/>
+</div>
