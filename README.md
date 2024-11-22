@@ -24,8 +24,11 @@
 
 ## 💀 Sobre Mim  
 
-
 Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia de liberdade digital. Apaixonado pelo **GNU/Linux**, encontro inspiração na missão de gigantes como **Richard Stallman** e **Linus Torvalds**, que transformaram a tecnologia em um meio para empoderar pessoas.
+
+<div align="center">
+  <img src="https://th.bing.com/th/id/OIP.P3GaECvm5GpkIvqa_t3yrAHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.1&pid=1.7" alt="Selo de Apoio ao Software Livre" width="80" height="80"/>
+</div>
 
 ### 🌌 O que me define: 
 - Curioso em desenvolvimento de malware
@@ -33,7 +36,6 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 - **7 anos de experiência autodidata** em redes, segurança cibernética e programação.  
 - Desenvolvedor de ferramentas de intrusão e explorador de vulnerabilidades.  
 - Apaixonado por **projetos éticos** que incentivam o compartilhamento de conhecimento.
-
 
 ---
 
@@ -105,4 +107,3 @@ Acredito que **o conhecimento deve ser livre e acessível** para todos. Meu trab
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 </div>
-
