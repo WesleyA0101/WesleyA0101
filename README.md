@@ -85,9 +85,6 @@ Acredito que **o conhecimento deve ser livre e acessível** para todos. Meu trab
   <a href="https://debian.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="50" height="50"/>
   </a>
-  <a href="https://ubuntu.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>
-  </a>
 </div>
 
 ---
