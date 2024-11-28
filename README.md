@@ -39,7 +39,7 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 
 ---
 
-## 💻 Skills  
+## 💻 Habilidades 
 
 <div align="center">
   <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="Vim Logo" width="60" height="60"/>
