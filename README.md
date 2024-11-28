@@ -97,21 +97,8 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 
 > *"A liberdade de explorar, compartilhar e aprender é o que nos torna verdadeiramente humanos."*
 
-*Quando você utiliza software livre, você está no controle. Quando você usa software proprietário, o software está no controle de você."
-— Richard Stallman* 
-
----
-
-## 🐧 Distribuições Linux Preferidas  
-
-<div align="center">
-  <a href="https://archlinux.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50"/>
-  </a>
-  <a href="https://debian.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="50" height="50"/>
-  </a>
-</div>
+*Quando você utiliza software livre, você está no controle. Quando você usa software proprietário, o software está no controle de você."*  
+— **Richard Stallman** 
 
 ---
 
@@ -133,6 +120,10 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://i.pinimg.com/originals/05/30/72/053072dabbab054bea035451239fe81b.png" alt="GNU Linux Icon" width="150" height="150"/>
+  <a href="https://archlinux.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50"/>
+  </a>
 </div>
+
