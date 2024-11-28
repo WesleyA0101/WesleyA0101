@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=200&section=header&text=WesleyA0101&fontSize=45&fontColor=FF0000&animation=fadeIn&fontAlignY=40"/>
 
 <div align="center">
-  <h3 align="center">💀 Bem-vindo(a) ao meu mundo digital 💀</h3>
+  <h3 align="center">💀 Bem-vindo(a) 💀</h3>
   <p align="center">
     <img src="https://profile-counter.glitch.me/{WesleyA0101}/count.svg" alt="WesleyA0101 :: Visitor's Count" />
   </p>
