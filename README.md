@@ -97,7 +97,8 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 
 > *"A liberdade de explorar, compartilhar e aprender é o que nos torna verdadeiramente humanos."*
 
-Acredito que **o conhecimento deve ser livre e acessível** para todos. Meu trabalho reflete esse ideal, com foco em projetos que capacitam comunidades através da tecnologia.  
+*Quando você utiliza software livre, você está no controle. Quando você usa software proprietário, o software está no controle de você."
+— Richard Stallman* 
 
 ---
 
