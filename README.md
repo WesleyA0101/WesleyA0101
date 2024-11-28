@@ -51,11 +51,36 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 
 ---
 
-## 🛠️ Projetos Relevantes  
-🔹 **[Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel](https://github.com/WesleyA0101/Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel)**: Roadmap de estudos low-level  
-🔹 **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**: Ferramenta de escaneamento para segurança em redes.  
-🔹 **[Estudo-de-ransomware](https://github.com/WesleyA0101/estudos-de-ransomware)**: Pesquisas e protótipos de ransomware para fins educacionais.  
+## 🛠️ Projetos Relevantes
 
+🔹 **[Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel](https://github.com/WesleyA0101/Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel)**  
+*Um roadmap de estudos projetado para ajudar no desenvolvimento de habilidades em programação de baixo nível.*  
+🔍 Explore um guia completo para aprimorar seus conhecimentos em programação com foco em sistemas, hardware e otimização.
+
+---
+
+🔹 **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**  
+*Ferramenta avançada de escaneamento para segurança em redes.*  
+
+---
+
+🔹 **[Estudo-de-ransomware](https://github.com/WesleyA0101/estudos-de-ransomware)**  
+*Pesquisas e protótipos de ransomware para fins educacionais.*  
+💡 Estudo sobre as técnicas utilizadas em ataques de ransomware, incluindo a criação de protótipos para fins de aprendizado e mitigação de riscos.
+
+---
+
+🔹 **[LFIvader](https://github.com/WesleyA0101/LFIvader)**  
+*Exploração de vulnerabilidades Local File Inclusion (LFI).*  
+🚨 Uma ferramenta essencial para testar vulnerabilidades de LFI em sites web.
+
+---
+
+🔹 **[PDF-Split-PRO](https://github.com/WesleyA0101/PDF-Split-PRO)**  
+*Aplicação para dividir, combinar e manipular arquivos PDF de maneira eficiente.*  
+📑 Focada na otimização de PDFs, facilitando tarefas como separação de páginas e organização de documentos para um fluxo de trabalho mais ágil.
+
+--
 ---
 
 ## 📊 Estatísticas  
