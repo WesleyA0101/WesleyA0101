@@ -80,7 +80,6 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 *Aplicação para dividir, combinar e manipular arquivos PDF de maneira eficiente.*  
 📑 Focada na otimização de PDFs, facilitando tarefas como separação de páginas e organização de documentos para um fluxo de trabalho mais ágil.
 
---
 ---
 
 ## 📊 Estatísticas  
