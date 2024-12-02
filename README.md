@@ -102,14 +102,6 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 
 ---
 
-## 📚 Formação e Estudos  
-
-- **HACKONE**: Redes de Computadores, Mikrotik, Cloud Computing e Cibersegurança.  
-- **SENAC**: Administração.  
-- **Idiomas**: Cursando Inglês e Japonês.  
-
----
-
 ## 📞 Contato  
 
 <div align="center">
