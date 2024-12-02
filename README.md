@@ -17,7 +17,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/7298/7298537.png" alt="Hacker Icon" width="120" height="120"/>
 </div>
 <div align="center">
-  <img src="https://media0.giphy.com/media/eMmJJR6pLL4Nkt8eZJ/200.webp?cid=790b7611e9gbjf0zdfomaqfm2zz3c4in5st68cy28qhj20pi&ep=v1_gifs_search&rid=200.webp&ct=g" width="311" height="301" alt="Horse"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtwamRwa3ltaG8xenk0ZjY2dHRocnMwMjd5NG5ndWVpOG54d24wNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.webp" width="311" height="301" alt="Horse"/>
 </div>
 
 ---
