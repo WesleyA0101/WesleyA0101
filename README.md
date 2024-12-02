@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=200&section=header&text=WesleyA0101&fontSize=45&fontColor=FF0000&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&animation=fadeIn"/>
 
 <div align="center">
   <h3 align="center">💀 Bem-vindo(a) 💀</h3>
