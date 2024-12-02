@@ -102,16 +102,6 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 
 ---
 
-## 📞 Contato  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/wesley-alexsander-0329a2327" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
-</div>
-
----
-
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://i.pinimg.com/originals/05/30/72/053072dabbab054bea035451239fe81b.png" alt="GNU Linux Icon" width="150" height="150"/>
   <a href="https://archlinux.org" target="_blank">
