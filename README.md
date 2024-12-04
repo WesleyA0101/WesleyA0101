@@ -33,7 +33,7 @@ Sou **WesleyA0101**, um entusiasta do **software livre** e defensor da filosofia
 ### 🌌 O que me define: 
 - Curioso em desenvolvimento de malware
 - Apaixonado pela filosofia software livre
-- **7 anos de experiência autodidata** em redes, segurança cibernética e programação.  
+- **Autodidata** Em haccking e programação.  
 - Desenvolvedor de ferramentas de intrusão e explorador de vulnerabilidades.  
 - Apaixonado por **projetos éticos** que incentivam o compartilhamento de conhecimento.
 
