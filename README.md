@@ -45,10 +45,11 @@ Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software 
   <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="Vim Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="Git Logo" width="60" height="60"/>
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C Logo" width="60" height="60"/>
-  <img src="https://icongr.am/simple/gnubash.svg?size=128&color=ffffff&colored=false" alt="BashScript" width="60" height="60"/>
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Linux Logo" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="Linux Logo" width="60" height="60"/>
+  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="Docker Logo" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script Logo" width="60" height="60"/>
 </div>
+
 
 ---
 
