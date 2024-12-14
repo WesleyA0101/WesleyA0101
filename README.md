@@ -22,8 +22,6 @@
 
 ---
 
-## 🎖️ TryHackMe Badge
-
 <div align="center">
   <a href="https://tryhackme.com/p/WesleyA0101" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/WesleyA0101.png" alt="TryHackMe Badge" />
