@@ -22,6 +22,16 @@
 
 ---
 
+## 🎖️ TryHackMe Badge
+
+<div align="center">
+  <a href="https://tryhackme.com/p/WesleyA0101" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/WesleyA0101.png" alt="TryHackMe Badge" />
+  </a>
+</div>
+
+---
+
 ## 💀 Sobre Mim  
 
 Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software livre**. Inspirado pelos gigantes **Richard Stallman** e **Linus Torvalds**, estou aqui para contribuir para a criação de um mundo digital mais aberto, onde a verdadeira liberdade seja a base do nosso trabalho.
@@ -49,7 +59,6 @@ Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software 
   <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="Docker Logo" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script Logo" width="60" height="60"/>
 </div>
-
 
 ---
 
