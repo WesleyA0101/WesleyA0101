@@ -30,6 +30,15 @@
 
 ---
 
+<h4 align="center">
+  <a href="./README.md">🇧🇷 Português</a> |
+  <a href="./README.en.md">🇺🇸 English</a> |
+  <a href="./README.zh.md">🇨🇳 简体中文</a> |
+  <a href="./README.ja.md">🇯🇵 日本語</a>
+</h4>
+
+---
+
 ## 💀 Sobre Mim  
 
 Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software livre**. Inspirado pelos gigantes **Richard Stallman** e **Linus Torvalds**, estou aqui para contribuir para a criação de um mundo digital mais aberto, onde a verdadeira liberdade seja a base do nosso trabalho.
