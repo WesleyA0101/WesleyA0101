@@ -104,15 +104,6 @@ Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software 
 
 ---
 
-## 📊 Estatísticas  
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyA0101&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyA0101&hide=Html,Markdown&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyA0101&theme=dracula&utcOffset=3) |
-| :-: | :-: | :-: |
-
-
-
----
-
 ## 🧠 Filosofia  
 
 > *"A liberdade de explorar, compartilhar e aprender é o que nos torna verdadeiramente humanos."*
