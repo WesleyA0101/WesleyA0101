@@ -98,12 +98,6 @@
 *高效分割、合并和处理PDF文件的应用程序。*  
 📑 **实用工具**，用于管理和优化PDF文件，具备分割和合并功能。
 
----
-
-## 📊 统计
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyA0101&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyA0101&hide=Html,Markdown&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyA0101&theme=dracula&utcOffset=3) |
-| :-: | :-: | :-: |
 
 ---
 
