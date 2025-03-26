@@ -13,14 +13,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Curioso!;Explore+Sem+Limites!;Liberdade+é+o+Nosso+Propósito!" />
 </div>
 
+
 <div align="center">
-  <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="Hacker Icon" width="120" height="120"/>
-</div>
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtwamRwa3ltaG8xenk0ZjY2dHRocnMwMjd5NG5ndWVpOG54d24wNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.webp" width="311" height="301" alt="Horse"/>
+  <img src="https://media1.giphy.com/media/s26r1gGs4p57TQnfAm/200.webp?cid=ecf05e47dte8m29qkeykkh2yfvneloovc8vqhft4kjpxhuiv&ep=v1_gifs_search&rid=200.webp&ct=g&ct=g" width="311" height="301" alt="Horse"/>
 </div>
 
----
+
 
 <div align="center">
   <a href="https://tryhackme.com/p/WesleyA0101" target="_blank">
@@ -37,9 +35,14 @@
   <a href="./README.ja.md">🇯🇵 日本語</a>
 </h4>
 
+<div align="center">
+  <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="Hacker Icon" width="120" height="120"/>
+</div>
+
 ---
 
-## 💀 Sobre Mim  
+## <h3 align="center">🌑 Quem sou eu?</h3>
+
 
 Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software livre**. Inspirado pelos gigantes **Richard Stallman** e **Linus Torvalds**, estou aqui para contribuir para a criação de um mundo digital mais aberto, onde a verdadeira liberdade seja a base do nosso trabalho.
 
@@ -87,7 +90,7 @@ Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software 
 *Pesquisas e protótipos de ransomware para fins educacionais.*  
 💡 **Estudo profundo** das táticas de ransomware e suas implicações na segurança.
 
----
+
 
 🔹 **[LFIvader](https://github.com/WesleyA0101/LFIvader)**  
 *Exploração de vulnerabilidades Local File Inclusion (LFI).*  
@@ -103,11 +106,10 @@ Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software 
 
 ## 📊 Estatísticas  
   
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyA0101&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyA0101&hide=Html,Markdown&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyA0101&theme=nord_dark&utcOffset=3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyA0101&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyA0101&hide=Html,Markdown&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyA0101&theme=dracula&utcOffset=3) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyA0101&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=WesleyA0101&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+
 
 ---
 
@@ -126,3 +128,10 @@ Sou **WesleyA0101**, um defensor fervoroso da liberdade digital e do **software 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50"/>
   </a>
 </div>
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+![Wesley's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WesleyA0101&bg_color=000000&color=ff0000&line=8b0000&point=ff4500&hide_border=true)
+
+
+
