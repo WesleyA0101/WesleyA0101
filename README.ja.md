@@ -100,13 +100,6 @@
 
 ---
 
-## 📊 統計
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyA0101&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyA0101&hide=Html,Markdown&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyA0101&theme=dracula&utcOffset=3) |
-| :-: | :-: | :-: |
-
----
-
 ## 🧠 哲学  
 
 > *"探索、共有、学ぶ自由こそが私たちを本当に人間らしくするものです。"*
