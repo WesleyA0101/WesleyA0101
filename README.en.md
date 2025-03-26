@@ -98,12 +98,6 @@ I am **WesleyA0101**, a passionate advocate for digital freedom and **free softw
 *Application to split, merge, and manipulate PDF files efficiently.*  
 📑 Practical **tool** for managing and optimizing PDF files with separation and merging functionalities.
 
----
-
-## 📊 Stats
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyA0101&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyA0101&hide=Html,Markdown&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyA0101&theme=dracula&utcOffset=3) |
-| :-: | :-: | :-: |
 
 ---
 
