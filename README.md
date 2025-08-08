@@ -2,8 +2,7 @@
 
 <div align="center">
   <h3 align="center">💀 Bem-vindo(a) 💀</h3>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/{WesleyA0101}/count.svg" alt="WesleyA0101 :: Visitor's Count" />
+  
   </p>
 </div>
 
