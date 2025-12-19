@@ -14,9 +14,10 @@
 
 
 <div align="center">
-  <img src="https://media.tenor.com/24uiZ2J5qRQAAAAM/vergil675.gif&ct=g&ct=g" width="320" height="301" alt="Horse"/>
+  <img src="https://media.tenor.com/44LTIVoTPwsAAAAM/missed-me-brian-moser.gif" 
+       width="400" 
+       alt="Missed me GIF"/>
 </div>
-
 
 
 <div align="center">
