@@ -2,8 +2,7 @@
 
 <div align="center">
   <h3 align="center">💀 欢迎 💀</h3>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/{WesleyA0101}/count.svg" alt="WesleyA0101 :: 访客计数" />
+  <p align="center"
   </p>
 </div>
 
@@ -14,7 +13,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/s26r1gGs4p57TQnfAm/200.webp?cid=ecf05e47dte8m29qkeykkh2yfvneloovc8vqhft4kjpxhuiv&ep=v1_gifs_search&rid=200.webp&ct=g&ct=g" width="311" height="301" alt="Horse"/>
+  <img src="https://media.tenor.com/44LTIVoTPwsAAAAM/missed-me-brian-moser.gif" 
+       width="400" 
+       alt="Missed me GIF"/>
 </div>
 
 <div align="center">
