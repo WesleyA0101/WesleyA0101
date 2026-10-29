@@ -38,19 +38,19 @@
   <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="Animação com temática hacker" width="120" height="120" />
 </div>
 
-🌑 Quem sou eu?
+ Quem sou eu?
 Sou WesleyA0101, um defensor fervoroso da liberdade digital e do software livre. Inspirado pelos gigantes Richard Stallman e Linus Torvalds, busco contribuir para um mundo digital mais aberto, no qual a liberdade, a transparência e o compartilhamento de conhecimento sejam a base do nosso trabalho.
 <div align="center">
   <img src="https://www.gnu.org/graphics/heckert_gnu.small.png" alt="Logotipo GNU, símbolo ligado ao software livre" width="80" height="80" />
 </div>
 
-🌌 O que me define
-- 🔍 Curiosidade sobre desenvolvimento de malware e segurança computacional.
-- 🐧 Paixão pela filosofia do software livre.
-- 📚 Autodidata em hacking e programação.
-- 🛡️ Desenvolvimento de ferramentas de intrusão e exploração de vulnerabilidades para estudo e testes autorizados.
-- 🤝 Dedicação a projetos éticos que incentivam o compartilhamento do conhecimento.
-💻 Tecnologias
+ O que me define
+-  Curiosidade sobre desenvolvimento de malware e segurança computacional.
+-  Paixão pela filosofia do software livre.
+-  Autodidata em hacking e programação.
+-  Desenvolvimento de ferramentas de intrusão e exploração de vulnerabilidades para estudo e testes autorizados.
+-  Dedicação a projetos éticos que incentivam o compartilhamento do conhecimento.
+   Tecnologias
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
@@ -60,7 +60,7 @@ Sou WesleyA0101, um defensor fervoroso da liberdade digital e do software livre.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash e Shell Script" width="60" height="60" />
 </div>
 
-🛠️ Projetos relevantes
+ Projetos relevantes
 🔹 Bitwise Journey — Rumo à Programação de Baixo Nível
 Um roadmap de estudos para desenvolver habilidades em programação de baixo nível, sistemas operacionais e fundamentos da computação. Explore conteúdos sobre programação de sistemas, hardware e otimização.
 🔹 Scanner Demon
@@ -71,7 +71,7 @@ Repositório dedicado a documentar estudos sobre ransomware e desenvolvimento de
 Scanner desenvolvido em C para identificar vulnerabilidades do tipo Local File Inclusion (LFI) em aplicações web e organizar os resultados para análise em avaliações de segurança autorizadas.
 🔹 PDF-Split-PRO
 Aplicação para separar páginas de arquivos PDF e renomeá-las automaticamente com base em palavras-chave, ajudando a automatizar tarefas repetitivas e organizar documentos.
-🧠 Filosofia
+ Filosofia
 “A liberdade de explorar, compartilhar e aprender é o que nos torna verdadeiramente humanos.”
 
 “Quando você utiliza software livre, você está no controle. Quando você usa software proprietário, o software está no controle de você.”
