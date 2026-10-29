@@ -1,123 +1,92 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&animation=fadeIn"/>
+<!-- 动态页眉 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=200&amp;section=header&amp;animation=fadeIn" alt="黑色动态页眉" />
 
 <div align="center">
-  <h3 align="center">💀 欢迎 💀</h3>
-  <p align="center"
-  </p>
+  <h3>💀 欢迎 💀</h3>
 </div>
 
----
-
+<!-- 动态文字 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=保持好奇!;无限探索!;自由是我们的目标!" />
-</div>
-
-<div align="center">
-  <img src="https://media.tenor.com/44LTIVoTPwsAAAAM/missed-me-brian-moser.gif" 
-       width="400" 
-       alt="Missed me GIF"/>
-</div>
-
-<div align="center">
-  <a href="https://tryhackme.com/p/WesleyA0101" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/WesleyA0101.png" alt="TryHackMe Badge" />
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=32&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=60&amp;pause=1000&amp;lines=%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87!;%E6%97%A0%E9%99%90%E6%8E%A2%E7%B4%A2!;%E8%87%AA%E7%94%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E7%9B%AE%E6%A0%87!" alt="保持好奇！无限探索！自由是我们的目标！" />
   </a>
 </div>
 
----
-
-<h4 align="center">
-  <a href="./README.md">🇧🇷 葡萄牙语</a> |
-  <a href="./README.en.md">🇺🇸 英语</a> |
-  <a href="./README.zh.md">🇨🇳 简体中文</a> |
-  <a href="./README.ja.md">🇯🇵 日语</a>
-</h4>
-
+<!-- 展示 GIF -->
 <div align="center">
-  <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="Hacker Icon" width="120" height="120"/>
+  <img src="https://media.tenor.com/44LTIVoTPwsAAAAM/missed-me-brian-moser.gif" width="400" alt="Missed me GIF" />
 </div>
 
----
-
-## <h3 align="center">🌑 我是谁?</h3>
-
-我是**WesleyA0101**，一个热衷于数字自由和**自由软件**的支持者。受**Richard Stallman**和**Linus Torvalds**的启发，我致力于为创建一个更加开放的数字世界做出贡献，在这个世界中，真正的自由是我们工作的基础。
-
+<!-- TryHackMe 个人徽章 -->
 <div align="center">
-  <img src="https://th.bing.com/th/id/OIP.P3GaECvm5GpkIvqa_t3yrAHaHa?w=185&h=185&c=7&r=0&o=5&dpr=1.1&pid=1.7" alt="自由软件支持徽章" width="80" height="80"/>
-</div>
-
-### 🌌 让我定义我自己:
-- 对**恶意软件开发**充满好奇
-- 热衷于**自由软件**的哲学
-- **自学**黑客技术和编程
-- **入侵工具**开发者和**漏洞探索者**
-- 致力于**伦理项目**，推动知识分享
-
----
-
-## 💻 技术
-
-<div align="center">
-  <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="Vim Logo" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="Git Logo" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C Logo" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Linux Logo" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="Docker Logo" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script Logo" width="60" height="60"/>
-</div>
-
----
-
-## 🛠️ 相关项目
-
-🔹 **[Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel](https://github.com/WesleyA0101/Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel)**  
-*一个旨在帮助开发低级编程技能的学习路线图。*  
-🔍 探索一份完整的指南，提升你在**系统编程**、**硬件**和**优化**方面的知识。
-
----
-
-🔹 **[Scanner_demon](https://github.com/WesleyA0101/scanner_demon)**  
-*网络安全扫描的高级工具。*  
-🔒 这是一款用于**审计**和**渗透测试**的强大工具。
-
----
-
-🔹 **[Estudo-de-ransomware](https://github.com/WesleyA0101/estudos-de-ransomware)**  
-*为教育目的进行的勒索软件研究和原型制作。*  
-💡 **深入研究**勒索软件策略及其对安全的影响。
-
----
-
-🔹 **[LFIvader](https://github.com/WesleyA0101/LFIvader)**  
-*本地文件包含（LFI）漏洞的探索。*  
-🚨 LFI **利用**工具，适用于Web服务器的安全测试。
-
----
-
-🔹 **[PDF-Split-PRO](https://github.com/WesleyA0101/PDF-Split-PRO)**  
-*高效分割、合并和处理PDF文件的应用程序。*  
-📑 **实用工具**，用于管理和优化PDF文件，具备分割和合并功能。
-
-
----
-
-## 🧠 哲学  
-
-> *"探索、分享和学习的自由是使我们真正成为人类的东西。"*
-
-*"当你使用**自由软件**时，你是掌控一切的。当你使用**专有软件**时，软件掌控着你。"*  
-— **Richard Stallman**
-
----
-
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://i.pinimg.com/originals/05/30/72/053072dabbab054bea035451239fe81b.png" alt="GNU Linux Icon" width="150" height="150"/>
-  <a href="https://archlinux.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="50" height="50"/>
+  <a href="https://tryhackme.com/p/WesleyA0101" target="_blank" rel="noopener noreferrer">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/WesleyA0101.png" alt="WesleyA0101 的 TryHackMe 徽章" />
   </a>
 </div>
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- 语言切换 -->
+<div align="center">
+  <h4>
+    <a href="./README.md">🇧🇷 葡萄牙语</a> |
+    <a href="./README.en.md">🇺🇸 英语</a> |
+    <a href="./README.zh.md">🇨🇳 简体中文</a> |
+    <a href="./README.ja.md">🇯🇵 日语</a>
+  </h4>
+</div>
 
-![Wesley's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WesleyA0101&bg_color=000000&color=ff0000&line=8b0000&point=ff4500&hide_border=true)
+<div align="center">
+  <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="黑客主题动画" width="120" height="120" />
+</div>
+
+🌑 关于我
+我是 WesleyA0101，坚定支持数字自由与自由软件。受到 Richard Stallman 和 Linus Torvalds 等人的启发，我希望为建设一个更加开放的数字世界贡献力量，让自由、透明和知识共享成为我们工作的基础。
+<div align="center">
+  <img src="https://www.gnu.org/graphics/heckert_gnu.small.png" alt="GNU 标志，代表自由软件理念" width="80" height="80" />
+</div>
+
+🌌 我的特点
+- 🔍 对恶意软件开发和计算机安全充满好奇。
+- 🐧 热衷于自由软件的哲学。
+- 📚 通过自学探索黑客技术与编程。
+- 🛡️ 开发用于学习和授权测试的安全测试工具，并研究漏洞。
+- 🤝 致力于推动知识共享的道德与开源项目。
+💻 技术栈
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C 语言" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash / Shell Script" width="60" height="60" />
+</div>
+
+🛠️ 重点项目
+🔹 Bitwise Journey — 底层编程学习路线图
+一份循序渐进的学习路线图，旨在帮助学习者掌握底层编程、操作系统和计算机基础。内容涵盖系统编程、硬件与性能优化。
+🔹 Scanner Demon
+一款使用 C 语言开发的网络扫描工具，可捕获数据包、检查主机活动并扫描指定 IP 的端口，适用于安全学习、网络审计和经过授权的测试。
+🔹 勒索软件研究
+用于记录勒索软件与恶意软件开发相关学习和研究的项目，从教育角度分析相关技术及其对信息安全的影响。
+🔹 LFIvader
+使用 C 语言开发的扫描器，用于检测 Web 应用中的 本地文件包含（Local File Inclusion，LFI） 漏洞，并整理检测结果，便于在授权安全评估中进行分析。
+🔹 PDF-Split-PRO
+一款用于处理 PDF 文件的应用，可拆分 PDF 页面，并根据关键词自动重命名，帮助自动化重复性工作、整理文档并提高处理效率。
+🧠 理念
+“探索、分享与学习的自由，让我们真正成为人类。”
+
+“使用自由软件时，你掌握着软件；使用专有软件时，软件掌握着你。”
+— Richard Stallman
+
+<div align="center">
+  <img src="https://www.gnu.org/graphics/heckert_gnu.small.png" alt="GNU 标志" width="120" height="120" />
+  <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux 标志" width="50" height="50" />
+  </a>
+</div>
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="编程主题装饰动画" />
+
+<!-- GitHub 活动图：使用项目当前文档指定的官方 Vercel 部署 -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyA0101&amp;bg_color=000000&amp;color=ff0000&amp;line=8b0000&amp;point=ff4500&amp;hide_border=true" alt="WesleyA0101 的 GitHub 活动图" />
+</div>
